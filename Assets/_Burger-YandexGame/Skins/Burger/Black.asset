@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Black
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 2
+  <Icon>k__BackingField: {fileID: 21300000, guid: 1f572d808c8425844a9f8b033d7d1634, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: 250573423735796173, guid: 7f1a1d044a8b425e93d82f39bd3ce376, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: 2100000, guid: a61f911e847940148726701782c76223, type: 2}
+  <BurgerDownMesh>k__BackingField: {fileID: 1937417081465996405, guid: ccab9a0edad84cb2b3699bcb0237257e, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: 2100000, guid: a61f911e847940148726701782c76223, type: 2}

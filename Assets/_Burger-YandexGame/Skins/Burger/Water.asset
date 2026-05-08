@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 4
+  <Icon>k__BackingField: {fileID: 21300000, guid: 917fb9e83138ff3488e4cd405da563e6, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: 8824972753341642249, guid: c9f55fadbd4998545839f1e7accf5d25, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: 2100000, guid: 3d44d7a234773554f84eeea39c7b1386, type: 2}
+  - {fileID: 2100000, guid: 8f28871a23971d2409d2390af71dee9f, type: 2}
+  - {fileID: 2100000, guid: 87d03853f43153f4a87d522060b4feeb, type: 2}
+  - {fileID: 2100000, guid: 9bfc6f6f7e933c24f9f5d3a4a89a1d21, type: 2}
+  - {fileID: 2100000, guid: 88012bdce8aedd849bb50a0659564db5, type: 2}
+  <BurgerDownMesh>k__BackingField: {fileID: 9193786007208576622, guid: 94000de101ab0594e966fc147ccf10f8, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: 2100000, guid: a822e00cc96367449924a8064f3dc866, type: 2}
+  - {fileID: 2100000, guid: efe4283390f89c94f9426bcfd9d7f89c, type: 2}

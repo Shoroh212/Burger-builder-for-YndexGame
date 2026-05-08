@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Mech
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 9
+  <Icon>k__BackingField: {fileID: 21300000, guid: 5ad1100a5bf96414dac97b6d56eeb1f1, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: -7579691169827524880, guid: 4edd9a614686cea4b958ede8ea5a1d2a, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: 2100000, guid: d48f2605c3ae4194daeb2462bc2db45d, type: 2}
+  - {fileID: 2100000, guid: 7b328b542a3b4254786fd819ee87a416, type: 2}
+  - {fileID: 2100000, guid: 589d5d07ceedca043b84d37cd9c39e83, type: 2}
+  - {fileID: 2100000, guid: 59d18a5e2e363124d90d259dc7108651, type: 2}
+  - {fileID: 2100000, guid: 72431be78f2d1244c912857a53f2de28, type: 2}
+  <BurgerDownMesh>k__BackingField: {fileID: 9193786007208576622, guid: cb6ac320315fa424bae85d0840e2e128, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: 2100000, guid: bf3736642c732d340a7501104d5b5df4, type: 2}
+  - {fileID: 2100000, guid: 731e9ad19376b2849a076518840e25f1, type: 2}
+  - {fileID: 2100000, guid: e1c05b9dfd9bcd042bec8b164c25f731, type: 2}

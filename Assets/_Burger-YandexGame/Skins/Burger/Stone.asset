@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 6
+  <Icon>k__BackingField: {fileID: 21300000, guid: 591c04403e10bf04aa373d559a2e8b5a, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: 8824972753341642249, guid: 8fddfeff71d85cf40aa2e30d9be779ef, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: 2100000, guid: e0131d9be8348d0458b12d27d935fe88, type: 2}
+  <BurgerDownMesh>k__BackingField: {fileID: -4639507051552454208, guid: c326056cdc1851e4cb0e3205cbadc8c7, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: 2100000, guid: 92d0b96a89319cf4aa42a82a0e3b3a19, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Burnt
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 12
+  <Icon>k__BackingField: {fileID: 21300000, guid: dd2b654eaa8b71049a0958679836dce4, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: 8824972753341642249, guid: 7efd1993e394f8a42907c7c2e8f28ae3, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: 2100000, guid: ecc4b12dbc27c2e4398a3b1022da00eb, type: 2}
+  <BurgerDownMesh>k__BackingField: {fileID: 9193786007208576622, guid: c3bc98bb9502e1544bc7f17960cd54b8, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: 2100000, guid: c33eb608dca7ab844975bf53dfbcf7ec, type: 2}

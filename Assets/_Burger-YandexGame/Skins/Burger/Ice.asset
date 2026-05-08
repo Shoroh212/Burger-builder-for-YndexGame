@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 5
+  <Icon>k__BackingField: {fileID: 21300000, guid: 8ec4587d8c256a44cba89d1fbdde36df, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: 6250127557928755716, guid: 1c1b5fc572f185e49b220079e6c364f5, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: -6922793697723135513, guid: 1c1b5fc572f185e49b220079e6c364f5, type: 3}
+  <BurgerDownMesh>k__BackingField: {fileID: 9193786007208576622, guid: 081c3caf83f144a40849ecbb0bd4ccec, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: -6922793697723135513, guid: 081c3caf83f144a40849ecbb0bd4ccec, type: 3}

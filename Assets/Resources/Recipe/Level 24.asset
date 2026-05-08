@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3068f48e8eb3a546bf7a4b7ae31b9d8, type: 3}
+  m_Name: Level 24
+  m_EditorClassIdentifier: 
+  <RecipeIngredients>k__BackingField:
+  - {fileID: 5380545007123955629, guid: 1bd9bf67cfa29714584f2fd31e17aa39, type: 3}
+  - {fileID: 4657093743217569898, guid: 251113bf952ccb8429a859785949b9aa, type: 3}
+  - {fileID: 5102843171613711034, guid: fef20f1311cfff44190bb88650db8eb4, type: 3}

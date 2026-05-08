@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0ef0b050806404786c5f2d22dd02d4, type: 3}
+  m_Name: Cyberpunk
+  m_EditorClassIdentifier: 
+  <SkinID>k__BackingField: 7
+  <Icon>k__BackingField: {fileID: 21300000, guid: ae0791ca413375e4885a42922a4cf256, type: 3}
+  <BurgerTopMesh>k__BackingField: {fileID: 6250127557928755716, guid: 7a89c766db41b754194c4b21dd3c7197, type: 3}
+  <BurgerTopMaterial>k__BackingField:
+  - {fileID: 2100000, guid: 1309d0e48c396d14c94049f05301e676, type: 2}
+  - {fileID: 2100000, guid: e4b39b681fedc7d4a86efa80e4b1e8d1, type: 2}
+  - {fileID: 2100000, guid: f62f13c860553674c90b56e2c456728f, type: 2}
+  - {fileID: 2100000, guid: ff41260a4e63d8242b52afe955d15f0f, type: 2}
+  - {fileID: 2100000, guid: 9986c6638ec74614484ab055561a69d6, type: 2}
+  - {fileID: 2100000, guid: fd66ac2651a1151419c416b702464c59, type: 2}
+  - {fileID: 2100000, guid: 194bee6c6fbd17647b839dad70a67ba8, type: 2}
+  - {fileID: 2100000, guid: 2cb5b0bd71339e441b739a82673a356e, type: 2}
+  <BurgerDownMesh>k__BackingField: {fileID: 9193786007208576622, guid: 3c5277d4af651434789e26ea8425656f, type: 3}
+  <BurgerDownMaterial>k__BackingField:
+  - {fileID: 2100000, guid: 5f6f546d753512541ae8d6a730e5c228, type: 2}
+  - {fileID: 2100000, guid: 2e18d29d1b0668b48924ba624918586f, type: 2}
+  - {fileID: 2100000, guid: 2a306bdeac8db9d4aad30861c2fd586c, type: 2}
+  - {fileID: 2100000, guid: 1ed5adb7c1c2ee049b58aaedf0392861, type: 2}

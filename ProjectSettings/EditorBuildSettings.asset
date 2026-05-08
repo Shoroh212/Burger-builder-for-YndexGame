@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level.unity
+    guid: efcac4e03c6ad144393373f20c25c7ba
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 1.unity
+    guid: e0af53c11509b2444938aba05a7ff956
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 2.unity
+    guid: 23814cb889a72e345a0062f4d04a5b67
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 3.unity
+    guid: adbdc367eacf1924f95200dc74ef0b77
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 4.unity
+    guid: 291cdc04563b2284b98785946d044e31
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 5.unity
+    guid: 854cf815808b4794cadd457101ef6dbe
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 6.unity
+    guid: b76f2e1a15c6b854ca561668250c5832
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 7.unity
+    guid: be10db9251c3e734cb6ae319b480f47c
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 8.unity
+    guid: f0ec5248e6a3acc458934d55f85d135c
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 9.unity
+    guid: 29b82b6b0640ea044b923164b0479ef1
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 10.unity
+    guid: 2dae73bbe8b1c144fbf23f555c5e5031
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 11.unity
+    guid: 7e49c8b6f7bbda64692c58c71c62dba7
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 12.unity
+    guid: bba1558fdbdcac44f8238bf3605d5743
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 13.unity
+    guid: a334206a0e5b80841b23b2f5cfc7c129
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 14.unity
+    guid: 510082d2c41d1b24dac6d9bf8bbd0ebe
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 15.unity
+    guid: 553ae4e3a862d5645befd477f0dea848
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 16.unity
+    guid: 6f171b0140ed2404f911fcf148356332
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 17.unity
+    guid: 77cfeada951153f4099bb16205103094
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 18.unity
+    guid: ea5d03a8b67323d41a30c536f7ce1ced
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 19.unity
+    guid: 1d8bc60d27a46be4d9d325b64a5975d1
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 20.unity
+    guid: 9b6035d6b84de3942b6882cad615a1e7
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 21.unity
+    guid: a7c1598efcc720c428372af8ea8a68bc
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 22.unity
+    guid: e21e7cc798a843042be067eccc3ce57b
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 23.unity
+    guid: 795533502e9115b4a812617980b87ef7
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 24.unity
+    guid: d097c5c0ff02d1f4d8c56026388478d2
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 25.unity
+    guid: b0916fb6b25b7194693b37a97ac1ce8b
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 26.unity
+    guid: c7ea9eee1bb2e2e44a7753b667f44d7f
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 27.unity
+    guid: 139c15958fb75c14fa7067107f52e484
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 28.unity
+    guid: 35284e6bc0856504188d6ea1bc36b49a
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 29.unity
+    guid: e3b7faeb8e4297e43867397510dbea7a
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 30.unity
+    guid: 56d8b94b814d6b34883c1e0712feab07
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 31.unity
+    guid: 6b5cd18172e87ab40b98c4a7cbd021fd
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 32.unity
+    guid: 5acf1c6aa58c84b439a11de83e87049c
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 33.unity
+    guid: 9cd6a9d7e5b9f3f4798ae59e5f3c63d2
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 34.unity
+    guid: ea1a9cafb32113f4eb29bcaa3ac2bb09
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 35.unity
+    guid: 3c10ec3ca40f6e746a24f2f3f4255b65
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 36.unity
+    guid: e3919f92283df364fb18008c83c72550
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 37.unity
+    guid: aeb93807348c990409181d5f49d03aab
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 38.unity
+    guid: db257b7e38f4f20408f1c9001b0aee44
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 39.unity
+    guid: 7e98807c99f4f1b4dbf081ad9579d6ec
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 40.unity
+    guid: 34b8e713a5b8bbd47ae30e56d4c1d118
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 41.unity
+    guid: a1bc75fb924e571419526c08c0d82371
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 42.unity
+    guid: 4196a2e1433ffc74296d04598aade1b6
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 43.unity
+    guid: 4013c80818f61324b889eaf14bde7dc0
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 44.unity
+    guid: c7d9802d622e6b64fa150ef4a9695f60
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 45.unity
+    guid: 299dad9a94b69194d854030be20942b9
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 46.unity
+    guid: 17cb47901ee200044954c0c8f787abb4
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 47.unity
+    guid: 87c72e59f41119742bbdb6cfbab090b6
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 48.unity
+    guid: f51f76e76c4a8eb4ab0e9352e4900e6a
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 49.unity
+    guid: c3ce3dd6d0384c944bfed40be1095061
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/Level 50.unity
+    guid: 7cd2e21d7c016394aa0bc00d0652aa2d
+  - enabled: 1
+    path: Assets/_Burger-YandexGame/Scenes/Levels/GenerationLevelTest.unity
+    guid: 8adf9ad38cd2b4d4db657a3fa06fe1f1
+  m_configObjects: {}

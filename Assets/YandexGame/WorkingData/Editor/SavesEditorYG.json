@@ -1,0 +1,44 @@
+{
+    "idSave": 2116,
+    "isFirstSession": false,
+    "language": "de",
+    "promptDone": false,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        false,
+        false
+    ],
+    "money": 453,
+    "currentSkinID": 3,
+    "purchasedSkins": [
+        0,
+        10,
+        5,
+        7,
+        2,
+        4,
+        12,
+        8,
+        11,
+        1,
+        3,
+        9
+    ],
+    "currentHeadSkinID": 2,
+    "purchasedHeadSkins": [
+        0,
+        2
+    ],
+    "currentBlockSkinID": 0,
+    "purchasedBlockSkins": [
+        0
+    ],
+    "levelIndex": 31,
+    "incomeLevel": 11,
+    "luckLevel": 18,
+    "fortuneSpin": 1,
+    "fortuneWheelCounter": 0,
+    "LastSavedDate": "2025-08-08T22:53:09.8882116+03:00",
+    "LastSavedStreak": 34
+}
